@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# jetbrains
+.idea
+.DS_Store
+output/
+tmp/
+scripts/
